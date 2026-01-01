@@ -1,4 +1,4 @@
-# Hasil Pemilu Indonesia 2019
+# Hasil Pemilu Indonesia 2019 | Indonesia General Election Result 2019
 
 Repositori ini berisi skrip dan data untuk mengolah hasil *Pemilu Indonesia 2019*, terutama rerata hasil suara pada berbagai tingkatan wilayah dan jenis pemilihan.
 
